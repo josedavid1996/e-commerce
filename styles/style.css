@@ -241,7 +241,7 @@ h6 {
   left: 15px;
 }
 
-.logo_container a {
+/* .logo_container a {
   font-size: 20px;
   color: #1e1e27;
   font-weight: 700;
@@ -250,8 +250,11 @@ h6 {
 
 .logo_container a span {
   color: #fe4c50;
+} */
+.logo_img {
+  height: 60px;
+  width: 60px;
 }
-
 /* 3 Main Slider */
 
 .main_slider {
@@ -276,6 +279,7 @@ h6 {
 .main_slider_content h1 {
   font-weight: 400;
   line-height: 1;
+  font-size: 57px;
 }
 
 .red_button {
